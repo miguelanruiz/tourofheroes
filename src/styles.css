@@ -1,0 +1,172 @@
+/* You can add global styles to this file, and also import other style files */
+.body
+{
+    position:absolute;
+    background-color:#ffffff;
+    height:1024px;
+    width:1440px;
+    padding:0px;
+}
+.rectangle-header
+{
+    background-color:#34495e;
+    height:201px;
+    width:1278px;
+    border:10px solid #2c3e50;
+    position:absolute;
+    top:0px;
+    left:71px;
+}
+.navbar-text
+{
+    width:253px;
+    height:80px;
+    left:243px;
+    top:100px;
+    position:absolute;
+}
+.navbar-button
+{
+    background-color:#ecf0f1;
+    height:80px;
+    width:253px;
+    border:10px solid #2c3e50;
+    top:100px;
+    left:243px;
+    position:absolute;
+}
+.navbar-text
+{
+    color:#000000;
+    text-align:left;
+    vertical-align:text-top;
+    font-size:28px;
+    font-family:Istok Web;
+    left:297px;
+    top:123px;
+    width:134px;
+    height:40px;
+    position:absolute;
+    line-height:auto;
+    border-style:hidden;
+    outline:none;
+}
+.item-list-box
+{
+    background-color:#9b59b6;
+    height:80px;
+    width:253px;
+    border:10px solid #8e44ad;
+    top:626px;
+    left:617px;
+    position:absolute;
+}
+.item-list-text
+{
+    color:#ecf0f1;
+    text-align:left;
+    vertical-align:text-top;
+    font-size:28px;
+    font-family:Istok Web;
+    left:690px;
+    top:646px;
+    width:100px;
+    height:40px;
+    position:absolute;
+    line-height:auto;
+    border-style:hidden;
+    outline:none;
+}
+.tourofheroes-title
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:56px;
+font-family:Julius Sans One;
+left:496px;
+top:27px;
+width:474px;
+height:61px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.myheroes-title
+{
+    color:#000000;
+    text-align:left;
+    vertical-align:text-top;
+    font-size:56px;
+    font-family:Julius Sans One;
+    left:588px;
+    top:230px;
+    width:312px;
+    height:61px;
+    position:absolute;
+    line-height:auto;
+    border-style:hidden;
+    outline:none;
+}
+.item-edit
+{
+    width:583px;
+    height:296px;
+    top:713px;
+    left:415px;
+    position:absolute;
+}
+.item-edit-box
+{
+    background-color:#ffffff;
+    height:296px;
+    width:583px;
+    border:1px solid #2f3542;
+    top:713px;
+    left:415px;
+    position:absolute;
+}
+.item-edit-name
+{
+    background-color:#f1f2f6;
+    height:52px;
+    width:301px;
+    top:847px;
+    left:659px;
+    position:absolute;
+}
+.item-edit-title
+{
+    background-color:#badc58;
+    height:55px;
+    width:583px;
+    top:713px;
+    left:415px;
+    position:absolute;
+}
+.item-edit-save-button
+{
+    background-color:#6ab04c;
+    height:51px;
+    width:152px;
+    top:934px;
+    left:455px;
+    position:absolute;
+}
+.save-text
+{
+    color:#ecf0f1;
+    text-align:left;
+    vertical-align:text-top;
+    font-size:28px;
+    font-family:Istok Web;
+    left:497px;
+    top:940px;
+    width:60px;
+    height:40px;
+    position:absolute;
+    line-height:auto;
+    border-style:hidden;
+    outline:none;
+}
